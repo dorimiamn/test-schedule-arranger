@@ -11,4 +11,4 @@ npx prisma generate
 npx webpack
 
 # 環境変数 PORT を指定してアプリケーションを起動
-PORT=$PORT yarn start
+yarn start
